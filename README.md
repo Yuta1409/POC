@@ -27,5 +27,5 @@ Dans ce projet, nous avons réalisé une preuve de concept (POC) avec des notifi
 2. **Envoyer des notifications** : Utilisez l'API Push pour envoyer des notifications aux utilisateurs.
 
 Pour des guides et des exemples plus détaillés, vous pouvez consulter :
-- [Quickstart pour créer des applications GitHub](https://docs.github.com/en/apps/creating-github-apps/writing-code-for-a-github-app/quickstart)
-- [Créer une application GitHub qui répond aux événements webhook](https://docs.github.com/en/apps/creating-github-apps/writing-code-for-a-github-app/building-a-github-app-that-responds-to-webhook-events)
+https://vite-pwa-org.netlify.app/guide/
+https://docs.pwabuilder.com/#/
